@@ -1,0 +1,119 @@
+/* Start .section-tho */
+.section-tho {
+  width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 24px;
+  padding: 64px 118px 79px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+.section-tho img {
+  margin-right: 29px;
+}
+.section-tho h3 {
+  font-weight: 700;
+  font-size: 2.2rem;
+  line-height: 2.1;
+}
+.section-tho span {
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.6;
+}
+.tho-content {
+  text-align: left;
+  vertical-align: middle;
+}
+
+/* End .section-tho */
+/* Start .section-three */
+.section-three {
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 24px;
+  padding: 64px 118px 79px;
+}
+.section-three h3 {
+  font-weight: 700;
+  font-size: 2.2rem;
+  line-height: 2.1;
+}
+.section-three span {
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.6;
+}
+.section-three figcaption {
+  display: inline-block;
+  margin-left: 29px;
+  vertical-align: middle;
+}
+
+/* End .section-three */
+/* Start .section-four */
+.section-four {
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 24px;
+  padding: 64px 118px 79px;
+  margin-bottom: 43px;
+  position: static;
+}
+.section-four figcaption {
+  position: relative;
+  left: 170px;
+  bottom: 120px;
+}
+.section-four h3 {
+  font-weight: 700;
+  font-size: 2.2rem;
+  line-height: 2.1;
+}
+.section-four span {
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.6;
+}
+
+/* End .section-four */
+/* Start .section-fife */
+main p {
+  font-weight: 400;
+  font-size: 1.9rem;
+  line-height: 1.57;
+  width: 420px;
+}
+.section-fife {
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 24px;
+  padding: 64px 118px 79px;
+  margin-bottom: 43px;
+}
+.section-fife span {
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.6;
+  vertical-align: middle;
+}
+.section-fife h3 {
+  font-weight: 700;
+  font-size: 2.2rem;
+  line-height: 2.1;
+  vertical-align: middle;
+}
+.section-fife img {
+  width: 141px;
+  height: 141px;
+  margin-right: 29px;
+  float: left;
+}
+.fife-content {
+  margin-top: 25px;
+}
